@@ -4,3 +4,6 @@ It uses Microsoft’s AutoGen framework to orchestrate collaborative AI agents t
 ```
 pip install -r requirements.txt
 ```
+
+For running this project use
+python -m streamlit run app.py
