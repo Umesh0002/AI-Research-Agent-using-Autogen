@@ -7,5 +7,5 @@ pip install -r requirements.txt
 
 For running this project use
 '''
-"python -m streamlit run app.py"
+python -m streamlit run app.py
 '''
